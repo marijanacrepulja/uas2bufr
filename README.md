@@ -10,7 +10,7 @@ Python code to transform Uncrewed Aircraft Systems(UAS) data from netCDF into th
 - WMO BUFR tables version 41
 
 # Running
-Transform data from file input_netcdf_filename to BUFR. Write output into output_bufr_filename.  
+Convert data from file input_netcdf_filename to BUFR. Write output into output_bufr_filename.  
 
 uas2bufr.py input_netcdf output_bufr_filename
 
