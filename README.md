@@ -12,7 +12,10 @@ Python code to transform Uncrewed Aircraft Systems(UAS) data from netCDF into th
 # Running
 Convert data from file input_netcdf_filename to BUFR. Write output into output_bufr_filename.  
 
-uas2bufr.py input_netcdf output_bufr_filename
+python3 uas2bufr.py input_netcdf output_bufr_filename
+
+**Example of runnig a python code to convert sample netCDF file in github**  
+python3 uas2bufr.py 20230327030016_Lat_46.812245_Lon_6.944007.nc 20230327030016_Lat_46.812245_Lon_6.944007.bufr
 
 # Copyright and license
 (C) Copyright 2005- ECMWF.
