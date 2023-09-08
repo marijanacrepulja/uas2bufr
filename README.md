@@ -6,7 +6,7 @@ Python code to transform Uncrewed Aircraft Systems(UAS) data from netCDF into th
 **Requirements**
 
 - Python 3 and above
-- ecCodes
+- [ecCodes](https://github.com/marijanacrepulja/eccodes)
 - WMO BUFR tables version 41
 
 # Running
